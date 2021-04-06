@@ -226,7 +226,7 @@ int main(){
 
         subsample.push_back(s1.at(i));
 
-        i+=;
+        i+=100;
     }
 
     cout<<subsample.size()<<" Words \n";  //Around 240 words
